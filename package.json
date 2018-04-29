@@ -2,8 +2,8 @@
   "name": "back-end-project-week",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/PeterGrayCreative/back-end-project-week.git",
-  "author": "Peter Gray <peter@petergraycreative.com>",
+  "repository": "https://github.com/NamediaDigital/notetaker.git",
+  "author": "Namedia Digital",
   "license": "MIT",
   "scripts": {
     "start": "nodemon app.js",
@@ -14,7 +14,6 @@
     "chai": "^4.1.2",
     "chai-http": "^4.0.0",
     "cors": "^2.8.4",
-    "crypto": "^1.0.1",
     "express": "^4.16.3",
     "express-session": "^1.15.6",
     "helmet": "^3.12.0",
